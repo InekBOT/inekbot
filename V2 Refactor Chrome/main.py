@@ -74,7 +74,7 @@ def canlidersekatil(dersid, sure):
 				join_button = browser.find_element_by_xpath('//*[@id="join_button_input"]')
 				join_button.click()
 				sleep(1)
-				if browser.title == "Sivas Fen Lisesi - CANLI DERS":
+				if browser.title == "CANLI DERS":
 					for i in tqdm(range(sure)):
 						sleep(1)
 					browser.quit()
