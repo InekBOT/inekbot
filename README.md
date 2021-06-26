@@ -1,7 +1,6 @@
 # inekbot
 Ortalama bir erişkin fen lisesi öğrencisi günde yaklaşık 10 dk canlı derslere girmeye uğraşmaktadır. Bu haftada 50 dk ayda 200 dakika zaman israfıdır. Ortalama bir Sivas Fen Lisesi ineğinin dakikada ortalama 1 soru çözdüğü okulumuzda yürütülen bilimsel araştırmalarda kanıtlanmıştır. Buna göre canlı derslere otomatik katılım sağlayan yazılımımız öğrencilere ayda 200 soru daha fazla çözmelerine olanak sağlayacaktır. 
 
-Ayrıca okulumuzun çobanları, bizim her derse içimizde, sezyum-133 atomu bulunan atomik saat hassasiyetinde girmemizi ve bunu hiç aksatmadan bir Robotik İnek edasıyla yapmamızı beklemektedir.
 
 | :exclamation:  Kullandığınız Tarayıcı Son Sürüm Olmalıdır   |
 |-----------------------------------------|
